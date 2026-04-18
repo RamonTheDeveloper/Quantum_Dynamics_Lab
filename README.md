@@ -6,7 +6,7 @@ Bem-vindo ao **Quantum Dynamics Lab**! Este repositório é um ecossistema de si
 
 Diferente de simuladores puramente abstratos, este laboratório utiliza o **QuTiP** para resolver a Equação de Schrödinger e simular Hamiltonianos reais, permitindo a observação de fenômenos como Oscilações de Rabi, Interferometria de Ramsey e Tomografia de Estado.
 
-<img width="400" height="350" alt="gates_animation" src="https://github.com/user-attachments/assets/8e95e342-0994-49e8-916e-ac9803368103" />
+<img width="560" height="560" alt="multi_qubit_bloch" src="https://github.com/user-attachments/assets/c2d7041e-f318-41f8-8b02-d7f6d63a6113" />
 
 ## 🚀 Estrutura do Projeto e Scripts
 
@@ -32,7 +32,7 @@ O laboratório está organizado em módulos que cobrem desde o controle de um ú
 * **Cálculo Numérico:** NumPy
 * **Renderização Científica:** Matplotlib (FuncAnimation, GridSpec, 3D Engine)
 
-<img width="560" height="560" alt="multi_qubit_bloch" src="https://github.com/user-attachments/assets/c2d7041e-f318-41f8-8b02-d7f6d63a6113" />
+<img width="400" height="350" alt="gates_animation" src="https://github.com/user-attachments/assets/8e95e342-0994-49e8-916e-ac9803368103" />
 
 ## 🎮 Como Executar
 
@@ -53,7 +53,9 @@ Todo o cálculo matemático das matrizes do QuTiP e a renderização 3D dos veto
 Este projeto foi desenvolvido como parte de uma pesquisa em Física Computacional, visando:
 
 • Visualização de sistemas físicos (Spins, Fótons e Átomos de dois níveis).
+
 • Criação de material didático para cursos de graduação em Física e Engenharia.
+
 • Iniciação Científica para o PIBITI/UFAM
 
 Autor: Gabriel Ramon de Souza Ramos
