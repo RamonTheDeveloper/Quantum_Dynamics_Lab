@@ -48,7 +48,7 @@ Todo o cálculo matemático das matrizes do QuTiP e a renderização 3D dos veto
 3. Execute qualquer um dos simuladores (exemplo):
    python teleportation_quantum.py (ou simplesmente clica em um símbolo de executar que fica no topo)
 
-📊 Aplicações em P&D
+## 📊 Aplicações em P&D
 
 Este projeto foi desenvolvido como parte de uma pesquisa em Física Computacional, visando:
 
