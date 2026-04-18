@@ -1,12 +1,12 @@
 # ⚛️ Quantum Dynamics Lab
 
 <img width="720" height="720" alt="bloch_animation" src="https://github.com/user-attachments/assets/565ff810-688d-44e9-8349-d31c29e3fed3" />
-<img width="560" height="560" alt="multi_qubit_bloch" src="https://github.com/user-attachments/assets/c2d7041e-f318-41f8-8b02-d7f6d63a6113" />
-<img width="400" height="350" alt="gates_animation" src="https://github.com/user-attachments/assets/8e95e342-0994-49e8-916e-ac9803368103" />
 
 Bem-vindo ao **Quantum Dynamics Lab**! Este repositório é um ecossistema de simulação voltado para a **Física Computacional** e **Informação Quântica**. O foco principal é a visualização interativa da dinâmica de sistemas de qubits e a implementação de protocolos quânticos fundamentais.
 
 Diferente de simuladores puramente abstratos, este laboratório utiliza o **QuTiP** para resolver a Equação de Schrödinger e simular Hamiltonianos reais, permitindo a observação de fenômenos como Oscilações de Rabi, Interferometria de Ramsey e Tomografia de Estado.
+
+<img width="400" height="350" alt="gates_animation" src="https://github.com/user-attachments/assets/8e95e342-0994-49e8-916e-ac9803368103" />
 
 ## 🚀 Estrutura do Projeto e Scripts
 
@@ -31,6 +31,8 @@ O laboratório está organizado em módulos que cobrem desde o controle de um ú
 * **Simulação Quântica:** [QuTiP](https://qutip.org/) (Quantum Toolbox in Python)
 * **Cálculo Numérico:** NumPy
 * **Renderização Científica:** Matplotlib (FuncAnimation, GridSpec, 3D Engine)
+
+<img width="560" height="560" alt="multi_qubit_bloch" src="https://github.com/user-attachments/assets/c2d7041e-f318-41f8-8b02-d7f6d63a6113" />
 
 ## 🎮 Como Executar
 
