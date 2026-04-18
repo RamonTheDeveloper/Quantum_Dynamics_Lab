@@ -59,4 +59,5 @@ Este projeto foi desenvolvido como parte de uma pesquisa em Física Computaciona
 • Iniciação Científica para o PIBITI/UFAM
 
 Autor: Gabriel Ramon de Souza Ramos
+
 Estudante de Bacharelado em Física - Universidade Federal do Amazonas (UFAM)
